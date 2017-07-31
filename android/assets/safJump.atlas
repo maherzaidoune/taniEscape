@@ -1,0 +1,33 @@
+
+safJump.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fall1
+  rotate: false
+  xy: 1, 11
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+fall2
+  rotate: false
+  xy: 83, 11
+  size: 80, 150
+  orig: 80, 150
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 165, 1
+  size: 70, 160
+  orig: 70, 160
+  offset: 0, 0
+  index: -1
+jump2
+  rotate: false
+  xy: 237, 1
+  size: 70, 160
+  orig: 70, 160
+  offset: 0, 0
+  index: -1

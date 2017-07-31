@@ -1,0 +1,47 @@
+
+taniMov.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tm1
+  rotate: false
+  xy: 1, 1
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: -1
+tm2
+  rotate: false
+  xy: 143, 1
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: -1
+tm3
+  rotate: false
+  xy: 285, 1
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: -1
+tm4
+  rotate: false
+  xy: 427, 1
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: -1
+tm5
+  rotate: false
+  xy: 569, 1
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: -1
+tm6
+  rotate: false
+  xy: 711, 1
+  size: 140, 180
+  orig: 140, 180
+  offset: 0, 0
+  index: -1

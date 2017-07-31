@@ -1,0 +1,40 @@
+
+safWalk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk
+  rotate: false
+  xy: 1, 1
+  size: 70, 170
+  orig: 70, 170
+  offset: 0, 0
+  index: -1
+walk1
+  rotate: false
+  xy: 73, 1
+  size: 70, 170
+  orig: 70, 170
+  offset: 0, 0
+  index: -1
+walk2
+  rotate: false
+  xy: 145, 1
+  size: 70, 170
+  orig: 70, 170
+  offset: 0, 0
+  index: -1
+walk3
+  rotate: false
+  xy: 217, 1
+  size: 70, 170
+  orig: 70, 170
+  offset: 0, 0
+  index: -1
+walk4
+  rotate: false
+  xy: 289, 1
+  size: 70, 170
+  orig: 70, 170
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+TaniJump.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tj1
+  rotate: false
+  xy: 1, 1
+  size: 130, 170
+  orig: 130, 170
+  offset: 0, 0
+  index: -1
+tj2
+  rotate: false
+  xy: 133, 1
+  size: 130, 170
+  orig: 130, 170
+  offset: 0, 0
+  index: -1
+tj3
+  rotate: false
+  xy: 265, 1
+  size: 130, 170
+  orig: 130, 170
+  offset: 0, 0
+  index: -1

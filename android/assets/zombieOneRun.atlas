@@ -1,0 +1,33 @@
+
+zombieOneRun.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zr1
+  rotate: false
+  xy: 1, 1
+  size: 100, 170
+  orig: 100, 170
+  offset: 0, 0
+  index: -1
+zr2
+  rotate: false
+  xy: 103, 1
+  size: 100, 170
+  orig: 100, 170
+  offset: 0, 0
+  index: -1
+zr3
+  rotate: false
+  xy: 205, 1
+  size: 100, 170
+  orig: 100, 170
+  offset: 0, 0
+  index: -1
+zr4
+  rotate: false
+  xy: 307, 1
+  size: 100, 170
+  orig: 100, 170
+  offset: 0, 0
+  index: -1

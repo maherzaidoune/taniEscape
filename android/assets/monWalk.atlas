@@ -1,0 +1,40 @@
+
+monWalk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk1
+  rotate: false
+  xy: 1, 1
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+walk2
+  rotate: false
+  xy: 93, 1
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+walk3
+  rotate: false
+  xy: 185, 1
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+walk4
+  rotate: false
+  xy: 277, 1
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+walk5
+  rotate: false
+  xy: 369, 1
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1

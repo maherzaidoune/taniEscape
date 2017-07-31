@@ -1,0 +1,47 @@
+
+rourouJump.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rj2
+  rotate: false
+  xy: 1, 1
+  size: 93, 170
+  orig: 93, 170
+  offset: 0, 0
+  index: -1
+rj1
+  rotate: false
+  xy: 96, 1
+  size: 92, 170
+  orig: 92, 170
+  offset: 0, 0
+  index: -1
+rj
+  rotate: false
+  xy: 190, 1
+  size: 91, 170
+  orig: 91, 170
+  offset: 0, 0
+  index: -1
+rj3
+  rotate: false
+  xy: 283, 1
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+rj4
+  rotate: false
+  xy: 375, 1
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+rj5
+  rotate: false
+  xy: 467, 1
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
