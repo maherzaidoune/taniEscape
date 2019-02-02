@@ -2,7 +2,7 @@
 
 An Open-Source Game made with libGDX Game Engine
 
-The hole game was developped in Just 1 day !!
+The hole game was developed in Just 1 day !!
 
 ## a 2D simple game
 made for fun ! just for fun !
